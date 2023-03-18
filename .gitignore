@@ -1,4 +1,4 @@
-/bin/
-/.vscode/
+bin/
+.vscode/
 .DS_Store
-/readme-pics/
+readme-pics/
