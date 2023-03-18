@@ -1,5 +1,7 @@
 # American Checkers
 
+<img width="494" alt="Screenshot-of-Checkers" src="https://user-images.githubusercontent.com/128189530/226140580-273df43b-6cb5-4a00-80d6-7c05c5ee0798.png">
+
 ## About
 This is a very simple program where 2 human players play American Checkers.
 These are the following rules for American Checkers:
